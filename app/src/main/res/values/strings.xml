@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ExpandableListViewDemo</string>
+
+    <string-array name="abbr_list_header">
+        <item>VOIP</item>
+        <item>LAN</item>
+        <item>MAN</item>
+        <item>WAN</item>
+        <item>ASCII</item>
+        <item>API</item>
+        <item>ATM</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>ALU</item>
+
+    </string-array>
+
+    <string-array name="abbr_list_child">
+        <item>Voice Over Internet Protocol</item>
+        <item>Local Area Network</item>
+        <item>Metropolitan Area Network</item>
+        <item>Wide Area Network</item>
+        <item>American Standard Code for Information Interchange</item>
+        <item>Application Programming Interface</item>
+        <item>Atomated Traller Machine</item>
+        <item>Hypre Text Markup Language</item>
+        <item>Cascade Style Sheet</item>
+        <item>Arithmatic Logic Unit</item>
+    </string-array>
+</resources>
